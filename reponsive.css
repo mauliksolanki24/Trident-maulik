@@ -1,0 +1,514 @@
+@media only screen and (max-width:700px) {
+
+
+    .left-one {
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+
+    .right-two {
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .t-box h2 {
+        font-size: 19px;
+    }
+
+    .text-one h1 {
+        text-align: center;
+        font-size: 35px;
+        font-weight: bolder;
+    }
+
+    .left-one p:nth-child(1) {
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .left-one p:nth-child(2) {
+        font-size: 20px;
+        /* font-weight: bold; */
+    }
+
+    .left-one h1 {
+        font-size: 35px;
+        font-weight: bold;
+    }
+
+
+    .left-two p:nth-child(1) {
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .left-two p:nth-child(3) {
+        font-size: 14px;
+        width: 330px;
+    }
+
+    .big-b {
+        height: 600px;
+    }
+
+    .button-box-one {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .card-bbt button {
+        padding: 10px 85px;
+        /* font-weight: bold; */
+        font-size: 19px;
+        border-radius: 10px;
+        color: white;
+        border: none;
+        background-color: rgb(23, 69, 233);
+    }
+
+    .card-bbt-right button {
+        padding: 10px 75px;
+        /* font-weight: bold; */
+        font-size: 20px;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        background-color: rgba(0, 0, 0, 0.457);
+    }
+
+    .or-sp {
+        position: absolute;
+        left: 110px;
+        top: 50px;
+        padding: 2px 5px;
+        color: black;
+        border-radius: 50%;
+        background-color: white;
+        box-shadow: rgb(206, 206, 214) 0px 0px 0px 3px, rgba(190, 194, 190, 0.893) 0px 0px 0px 6px, rgba(190, 194, 190, 0.881) 0px 0px 0px 9px, rgba(191, 193, 191, 0.645) 0px 0px 0px 12px, rgba(190, 194, 190, 0.461) 0px 0px 0px 15px;
+    }
+
+    .r-img-two img {
+        width: 110px;
+    }
+
+    .r-img-two span {
+        padding: 5px 7px;
+        background-color: rgb(29, 186, 248);
+        color: white;
+        font-size: 10px;
+        font-weight: bolder;
+        border-radius: 30px;
+    }
+
+    .right-two p:nth-child(1) {
+        font-size: 14px;
+        font-weight: bold;
+        color: rgb(29, 95, 248);
+    }
+
+    .right-two h1 {
+        font-size: 35px;
+    }
+
+    .fa-handshake {
+        font-size: 27px;
+    }
+
+    .fa-users {
+        font-size: 27px;
+    }
+
+
+    .model {
+        width: 120%;
+        height: 150%;
+        object-fit: contain;
+    }
+
+    .big-b {
+        height: 500px;
+        position: relative;
+        /* border: 4px solid red; */
+    }
+
+    .dj-wale {
+        position: absolute;
+        top: -160px;
+    }
+
+    .main-boss:hover .vd-box {
+        transform: translateX(0px);
+        transition: .9s ease-in-out;
+    }
+
+    .main-op:hover .card-box {
+        animation: none;
+    }
+
+    .sev-card h1 {
+        font-size: 40px;
+        font-weight: bolder;
+    }
+
+    .sev-card p:nth-child(1) {
+        font-size: 20px;
+        font-weight: bold;
+        color: rgb(29, 95, 248);
+    }
+
+    .sev-card p:nth-child(3) {
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .b-gg {
+        height: 120vh;
+    }
+
+    .super h1 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .super p {
+        font-size: 17px;
+    }
+
+    .super {
+        width: 100px;
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .st-box {
+        display: flex;
+        align-items: start;
+        flex-direction: column;
+        text-align: center;
+        gap: 0px;
+    }
+
+
+    .left-two p:nth-child(1) {
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .left-two p:nth-child(3) {
+        font-size: 15px;
+        width: 350px;
+    }
+
+    .left-two h1 {
+        font-size: 30px;
+        font-weight: bolder;
+    }
+
+    .left-two button {
+        padding: 10px 30px;
+        border: none;
+        color: white;
+        font-size: 17px;
+        font-weight: bold;
+        border-radius: 30px;
+        background-color: rgb(29, 95, 248);
+    }
+
+
+
+
+    .st-text p:nth-child(1) {
+        font-size: 18px;
+        font-weight: bold;
+        color: rgb(29, 95, 248);
+    }
+
+    .st-text p:nth-child(2) {
+        font-size: 20px;
+        /* font-weight: bold; */
+    }
+
+    .st-text h1 {
+        font-size: 35px;
+        font-weight: bold;
+    }
+
+
+    .st-box span {
+        width: 39px;
+        height: 0px;
+        font-size: 35px;
+    }
+
+    .st-mini h1 {
+        font-size: 20px;
+    }
+
+    .st-mini p:nth-child(2) {
+        font-size: 15px;
+    }
+
+    .i-one {
+        width: 350px;
+        height: 300px;
+    }
+
+    .sev-card p:nth-child(1) {
+        font-size: 18px;
+        font-weight: bold;
+        color: rgb(29, 95, 248);
+    }
+
+    .sev-card p:nth-child(3) {
+        font-size: 16px;
+        font-weight: bold;
+
+    }
+
+    .sev-card h1 {
+        font-size: 30px;
+        font-weight: bolder;
+    }
+
+    .image-box {
+        position: absolute;
+        width: 300px;
+        height: 180px;
+        border-radius: 0px 50px 240px 30px;
+        right: 20px;
+        bottom: 100px;
+    }
+
+    .odd {
+        width: 100px;
+        font-size: 15px;
+        position: absolute;
+        top: 70px;
+        right: 70px;
+    }
+
+    .dob {
+        width: 340px;
+        height: 250px;
+        border-radius: 15px;
+        position: relative;
+        border: none;
+    }
+
+    .bob {
+        width: 340px;
+        height: 60px;
+        border-radius: 15px;
+        border: none;
+    }
+
+    .new-in form {
+        gap: 20px;
+        width: 330px;
+        height: 500px;
+        display: flex;
+    }
+
+    .new-in h1 {
+        font-size: 25px;
+        color: white;
+        font-weight: bold;
+    }
+
+    .new-in button {
+        padding: 10px 10px;
+        border-radius: 15px;
+        font-size: 15px;
+        font-weight: bold;
+        color: white;
+        border: none;
+        background-color: rgba(29, 95, 248, 0.918);
+    }
+
+
+
+    .sp-one h1 {
+        font-size: 30px;
+    }
+
+    .sp-one p {
+        width: 350px;
+        font-size: 15px;
+    }
+
+    .card-nine h1 {
+        width: 550px;
+        height: 75px;
+        font-size: 18px;
+        border-bottom: 2px solid blue;
+    }
+
+    .card-nine p:nth-child(2) {
+        width: 340px;
+        height: 95px;
+        font-size: 14px;
+    }
+
+    .fa-chevron-down {
+        font-size: 30px;
+    }
+
+
+
+    .jok-box h1 {
+        font-size: 19px;
+        font-weight: bold;
+    }
+
+    .jok-box p:nth-child(1) {
+        font-size: 17px;
+        font-weight: bold;
+    }
+
+    .jok-box p:nth-child(2) {
+        font-size: 17px;
+        font-weight: bold;
+    }
+
+    .jok-box p:nth-child(3) {
+        width: 350px;
+        font-size: 14px;
+    }
+
+
+    .end-one {
+        height: 50vh;
+    }
+
+    .vv-ttx p {
+        font-size: 14px;
+        font-weight: bold;
+        color: rgb(7, 7, 196);
+    }
+
+    .vv-ttx h1 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    .vv-ttx button {
+        padding: 10px 10px;
+        color: white;
+        height: 40px;
+        /* position: absolute; */
+        /* bottom: 0; */
+        /* left: 0; */
+        top: 80%;
+        font-weight: bold;
+        font-size: 14px;
+        background-color: rgba(35, 35, 216, 0.867);
+        border: none;
+        border-radius: 14px;
+    }
+
+    .ssp {
+        padding: 10px 15px;
+        color: white;
+        font-weight: bold;
+        font-size: 13px;
+        border-radius: 15px;
+        z-index: 111111;
+        background-color: rgba(0, 0, 128, 0.705);
+    }
+
+    .card-for {
+        animation: none;
+    }
+
+    .main-gj:hover .new-in {
+        animation: none;
+    }
+
+    .last-two {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+    }
+
+    .last-ttx {
+        width: 300px;
+        height: 300px;
+    }
+
+    .last-box {
+        height: 100vh;
+        display: flex;
+    }
+
+
+    .btx span {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        color: white;
+        font-size: 35px;
+        font-weight: bolder;
+    }
+
+    .h11 {
+        font-size: 50px;
+        font-weight: 750;
+    }
+    
+    .h22 {
+        font-size: 50px;
+        font-weight: 750;
+    }
+    
+    .h33 {
+        font-size: 50px;
+        font-weight: 750;
+    }
+    
+    .h44 {
+        font-size: 50px;
+        font-weight: 750;
+    }
+
+    .last-ttx h1 {
+        font-size: 20px;
+    }
+    .last-ttx p {
+        font-size: 15px;
+    }
+
+    .card-end h1 {
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .last-ttx input {
+        width: 155px;
+        height: 30px;
+        border-radius: 14px;
+        border: none;
+    }
+    
+    .last-ttx button {
+        padding: 10px 15px;
+        color: white;
+        position: absolute;
+        bottom: 60px;
+        right: 52px;
+        font-weight: bold;
+        font-size: 17px;
+        background-color: rgba(35, 35, 216, 0.867);
+        border: none;
+        border-radius: 14px;
+    }
+    
+
+
+
+}

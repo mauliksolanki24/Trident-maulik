@@ -1,0 +1,1119 @@
+.nav-link {
+    font-size: 20px;
+    color: white;
+}
+
+.btn {
+    background-color: rgba(14, 14, 112, 0.819);
+    padding: 10px 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+/*    con-1   */
+
+.left-one p:nth-child(1) {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.left-one p:nth-child(2) {
+    font-size: 20px;
+    /* font-weight: bold; */
+}
+
+.left-one h1 {
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.r-img {
+    margin-bottom: -120px;
+}
+
+.r-img-two {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 2%;
+    top: 200px;
+    gap: 10px;
+}
+
+.model {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.r-img-two img {
+    width: 160px;
+}
+
+.r-img-two span {
+    padding: 4px 50px;
+    background-color: rgb(29, 186, 248);
+    color: white;
+    font-weight: bolder;
+    border-radius: 30px;
+}
+
+.right-two p:nth-child(1) {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(29, 95, 248);
+}
+
+.right-two p:nth-child(2) {
+    font-size: 20px;
+    /* font-weight: bold; */
+}
+
+.right-two h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.fa-handshake {
+    font-size: 30px;
+}
+
+.fa-users {
+    font-size: 30px;
+}
+
+.ttx h1 {
+    font-size: 34px;
+    color: rgb(29, 95, 248);
+    font-weight: bold;
+}
+
+.ttx p {
+    font-size: 10px;
+    /* font-weight: bold; */
+}
+
+.t-box h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.t-box p {
+    font-size: 10px;
+}
+
+.card-bbt button {
+    padding: 12px 45px;
+    /* font-weight: bold; */
+    font-size: 19px;
+    border-radius: 15px 0px 0px 15px;
+    color: white;
+    border: none;
+    background-color: rgb(23, 69, 233);
+}
+
+.card-bbt button:hover {
+    background-color: rgba(0, 0, 0, 0.457);
+}
+
+.card-bbt-right button:hover {
+    background-color: rgb(23, 69, 233);
+}
+
+.card-bbt-right button {
+    padding: 12px 45px;
+    /* font-weight: bold; */
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 0px 15px 15px 0px;
+    background-color: rgba(0, 0, 0, 0.457);
+}
+
+.or-sp {
+    position: absolute;
+    left: 162px;
+    top: 8px;
+    padding: 7px 10px;
+    color: black;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: rgb(206, 206, 214) 0px 0px 0px 3px, rgba(190, 194, 190, 0.779) 0px 0px 0px 6px, rgba(190, 194, 190, 0.571) 0px 0px 0px 9px, rgba(190, 194, 190, 0.503) 0px 0px 0px 12px, rgba(190, 194, 190, 0.455) 0px 0px 0px 15px;
+}
+
+
+
+
+
+
+
+
+
+
+.button-box button:nth-child(1) {
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
+.button-box button:nth-child(2) {
+    /* padding: 10px 30px; */
+    /* font-weight: bold; */
+}
+
+.fa-phone {
+    font-size: 20px;
+}
+
+
+.big-b {
+    height: 190px;
+    position: relative;
+}
+
+.vd-box {
+    transition: .9s ease-in-out;
+}
+
+.main-boss:hover .vd-box {
+    transform: translateX(100px);
+    transition: .9s ease-in-out;
+}
+
+.text-box {
+    width: 300px;
+    height: 180px;
+    position: relative;
+    border: 2px solid white;
+    background-color: rgb(70, 142, 223);
+}
+
+.text-box h1 {
+    font-size: 29px;
+    font-weight: bold;
+    color: white;
+}
+
+.text-box p {
+    color: white;
+}
+
+.text-box span {
+    padding: 5px 17px;
+    font-size: 29px;
+    font-weight: bold;
+    color: white;
+    border-radius: 50%;
+    background-color: rgb(4, 4, 52);
+    position: absolute;
+    bottom: -25px;
+}
+
+.dj-wale {
+    position: absolute;
+    top: -70px;
+}
+
+.text-one p {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(29, 95, 248);
+}
+
+.text-one h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.card-box {
+    width: 100%;
+    height: 260px;
+    gap: 10px;
+    background-color: rgb(29, 95, 248);
+    border-radius: 0 50px 0 50px;
+    /* opacity: 0; */
+    /* border: 3px solid maroon; */
+}
+
+.card-box h1 {
+    font-size: 29px;
+    font-weight: bold;
+    color: white;
+}
+
+.card-box p {
+    width: 260px;
+}
+
+.card-box span {
+    padding: 6px 30px;
+    color: white;
+    position: absolute;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.781);
+    top: 14px;
+    left: 0;
+}
+
+
+.main-op:hover .ani {
+    animation: ani;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+}
+
+.main-op:hover .ani-2 {
+    animation: ani2;
+    animation-duration: 2.5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+}
+
+.main-op:hover .ani-3 {
+    animation-name: ani3;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+
+}
+
+.main-op:hover .ani-4 {
+    animation-name: ani4;
+    animation-duration: 3.5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+}
+
+@keyframes ani2 {
+    0% {
+        transform: translateY(250px);
+        transition: .5s ease-in-out;
+        opacity: 0;
+    }
+
+
+
+
+    100% {
+        transform: translateY(0px);
+        transition: .5s ease-in-out;
+        opacity: 1;
+    }
+}
+
+@keyframes ani3 {
+    0% {
+        transform: translateY(300px);
+        transition: .5s ease-in-out;
+        opacity: 0;
+    }
+
+
+    100% {
+        transform: translateY(0px);
+        transition: .5s ease-in-out;
+        opacity: 1;
+    }
+}
+
+@keyframes ani4 {
+    0% {
+        transform: translateY(350px);
+        transition: .5s ease-in-out;
+        opacity: 0;
+    }
+
+
+    100% {
+        transform: translateY(0px);
+        transition: .5s ease-in-out;
+        opacity: 1;
+    }
+}
+
+@keyframes ani {
+    0% {
+        transform: translateY(0px);
+        transition: .5s ease-in-out;
+        opacity: 0;
+    }
+
+
+
+    100% {
+        transform: translateY(200px);
+        transition: .5s ease-in-out;
+        opacity: 0;
+    }
+}
+
+
+
+.card-for {
+    width: 285px;
+    height: 250px;
+    display: flex;
+    border: 4px solid rgb(7, 207, 252);
+    border-radius: 20px;
+    background-color: white;
+    opacity: 0;
+}
+
+.main-ibox:hover .card-for {
+    animation: ani2;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+    opacity: 1;
+}
+
+
+
+
+@keyframes ani2 {
+    0% {
+        transform: translateY(400px);
+        transition: .5s ease-in-out;
+        opacity: 0;
+    }
+
+    80% {
+        opacity: .5;
+    }
+
+    100% {
+        transform: translateY(0px);
+        transition: .5s ease-in-out;
+        opacity: 1;
+    }
+}
+
+.card-for h1 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.card-for p {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.card-for button {
+    background: none;
+    color: rgb(29, 95, 248);
+    border: none;
+    font-size: 23px;
+}
+
+.fa-location-dot {
+    font-size: 20px;
+    color: rgb(29, 95, 248);
+}
+
+.fa-clock {
+    font-size: 20px;
+    color: rgb(29, 95, 248);
+}
+
+.left-two p:nth-child(1) {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.left-two p:nth-child(3) {
+    font-size: 17px;
+    width: 400px;
+}
+
+.left-two h1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.left-two button {
+    padding: 10px 40px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: rgb(29, 95, 248);
+}
+.left-two button:hover {
+    background: rgba(128, 128, 128, 0.803);
+}
+
+.odd span {
+    padding: 10px 30px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(29, 95, 248);
+}
+
+
+
+.st-text p:nth-child(1) {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(29, 95, 248);
+}
+
+.st-text p:nth-child(2) {
+    font-size: 20px;
+    /* font-weight: bold; */
+}
+
+.st-text h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.st-box span {
+    width: 76px;
+    height: 130px;
+    font-size: 60px;
+    color: rgb(29, 95, 248);
+    font-weight: bolder;
+    /* border: 4px solid red; */
+    display: flex;
+    align-items: start;
+}
+
+.st-mini h1 {
+    font-size: 27px;
+}
+
+.st-mini p:nth-child(2) {
+    font-size: 17px;
+}
+
+.i-one {
+    width: 450px;
+    height: 500px;
+    border-radius: 0 50px 0 0;
+    object-fit: cover;
+}
+
+.image-box {
+    opacity: 0;
+    position: absolute;
+    width: 350px;
+    height: 280px;
+    border-radius: 0px 50px 240px 30px;
+    right: 20px;
+    bottom: 30px;
+}
+
+.main-smg:hover .image-box {
+    animation: s-one;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    transition: 1s ease-in-out;
+    opacity: 1;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes s-one {
+    0% {
+        transform: translateX(0px);
+        opacity: 0;
+    }
+
+    50% {
+        transform: translateX(-300px);
+        opacity: 0;
+
+    }
+
+    80% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateX(20px);
+        opacity: 1;
+        transition: .5s ease-in-out;
+    }
+}
+
+.d-hov {
+    opacity: 0;
+}
+
+.main-two:hover .d-hov {
+    animation: s-one;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    transition: 3s ease-in-out;
+    opacity: 1;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes s-one {
+    0% {
+        transform: translateX(0px);
+        opacity: 0;
+    }
+
+    50% {
+        transform: translateX(-200px);
+        opacity: 0;
+        transition: 2s ease-in-out;
+
+    }
+
+    80% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateX(50px);
+        opacity: 1;
+        transition: .5s ease-in-out;
+    }
+}
+
+/*  2  */
+.g-hov {
+    opacity: 0;
+}
+
+.main-two:hover .g-hov {
+    animation: g-one;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    transition: .7s ease-in-out;
+    opacity: 1;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes g-one {
+    0% {
+        transform: translateX(0px);
+        opacity: 0;
+    }
+
+    50% {
+        transform: translateX(200px);
+        opacity: 0;
+
+    }
+
+    80% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateX(-50px);
+        opacity: 1;
+        transition: .5s ease-in-out;
+    }
+}
+
+.b-gg {
+    height: 430px;
+}
+
+.super h1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.log-l {
+    font-size: 30px;
+    padding: 20px 20px;
+    color: white;
+    background-color: rgba(29, 95, 248, 0.918);
+    border-radius: 50%;
+}
+
+.sev-card p:nth-child(1) {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(29, 95, 248);
+}
+
+.sev-card p:nth-child(3) {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.sev-card h1 {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.sev-card button {
+    padding: 10px 30px;
+    border-radius: 15px;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    background-color: rgba(29, 95, 248, 0.918);
+}
+
+
+.slip h1 {
+    font-size: 28px;
+}
+
+.slip p {
+    text-align: center;
+}
+
+.new-in form {
+    gap: 20px;
+    width: 550px;
+    height: 500px;
+    display: flex;
+}
+
+.bob {
+    width: 600px;
+    height: 60px;
+    border-radius: 15px;
+    border: none;
+}
+
+.dob {
+    width: 600px;
+    height: 250px;
+    border-radius: 15px;
+    position: relative;
+    border: none;
+}
+
+.dob::placeholder {
+    position: absolute;
+    top: 0;
+}
+
+input::placeholder {
+    padding: 30px;
+    font-weight: bold;
+}
+
+.sp-one h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.sp-one p:nth-child(1) {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.sp-one p:nth-child(1) {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(29, 95, 248);
+}
+
+.sp-one p:nth-child(2) {
+    font-size: 20px;
+    /* font-weight: bold; */
+}
+
+.sp-one h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.new-in h1 {
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+}
+
+.new-in button {
+    padding: 20px 30px;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    background-color: rgba(29, 95, 248, 0.918);
+}
+
+
+.card-nine {
+    width: 570px;
+    height: 85px;
+    overflow: hidden;
+    /* border: 4px solid red;   */
+}
+
+.card-nine:hover {
+    height: 240px;
+}
+
+.card-nine h1 {
+    width: 550px;
+    height: 70px;
+    font-size: 18px;
+    border-bottom: 2px solid blue;
+}
+
+.card-nine p:nth-child(2) {
+    width: 500px;
+    height: 90px;
+    font-size: 16px;
+}
+
+.fa-chevron-down {
+    font-size: 30px;
+}
+
+
+
+/*   con-10   */
+
+@property --super {
+    syntax: "<integer>";
+    initial-value: 240;
+    inherits: false;
+}
+
+.main-tuch:hover .h11 {
+    animation: uper 1s 1 alternate ease-in-out;
+    counter-reset: uper var(--super);
+}
+
+.h11::after {
+    content: counter(uper);
+}
+
+@keyframes uper {
+    0% {
+        --super: 0;
+    }
+
+    100% {
+        --super: 240;
+    }
+}
+
+/*  2  */
+
+@property --duper {
+    syntax: "<integer>";
+    initial-value: 10;
+    inherits: false;
+}
+
+.main-tuch:hover .h22 {
+    animation: coper 1s 1 alternate ease-in-out;
+    counter-reset: coper var(--duper);
+}
+
+.h22::after {
+    content: counter(coper);
+}
+
+@keyframes coper {
+    0% {
+        --duper: 0;
+    }
+
+    100% {
+        --duper: 10;
+    }
+}
+
+/*  3  */
+
+@property --jabbr {
+    syntax: "<integer>";
+    initial-value: 99;
+    inherits: false;
+}
+
+.main-tuch:hover .h33 {
+    animation: xyz 1s 1 alternate ease-in-out;
+    counter-reset: xyz var(--jabbr);
+}
+
+.h33::after {
+    content: counter(xyz);
+}
+
+@keyframes xyz {
+    0% {
+        --jabbr: 0;
+    }
+
+    100% {
+        --jabbr: 99;
+    }
+}
+
+/*  4  */
+
+@property --oop {
+    syntax: "<integer>";
+    initial-value: 200;
+    inherits: false;
+}
+
+.main-tuch:hover .h44 {
+    animation: bbg 1s 1 alternate ease-in-out;
+    counter-reset: bbg var(--oop);
+}
+
+.h44::after {
+    content: counter(bbg);
+}
+
+@keyframes bbg {
+    0% {
+        --oop: 0;
+    }
+
+    100% {
+        --oop: 200;
+    }
+}
+
+
+
+.h11 {
+    font-size: 75px;
+    font-weight: bolder;
+}
+
+.h22 {
+    font-size: 75px;
+    font-weight: bolder;
+}
+
+.h33 {
+    font-size: 75px;
+    font-weight: bolder;
+}
+
+.h44 {
+    font-size: 75px;
+    font-weight: bolder;
+}
+
+.btx span {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: 75px;
+    font-weight: bolder;
+}
+
+.btx {
+    gap: 20px;
+}
+
+.btx p {
+    font-size: 17px;
+    color: white;
+    font-weight: bold;
+}
+
+.jok-box h1 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.jok-box p:nth-child(1) {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.jok-box p:nth-child(2) {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.jok-box p:nth-child(3) {
+    width: 400px;
+    font-size: 15px;
+}
+
+.iid-box img {
+    transition: .6s ease-in-out;
+}
+
+.iid-box img:hover {
+    scale: 1.2;
+    transition: .6s ease-in-out;
+}
+
+.ssp {
+    padding: 10px 30px;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+    z-index: 111111;
+    background-color: rgba(0, 0, 128, 0.705);
+}
+
+.vv-ttx p {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(7, 7, 196);
+}
+
+.vv-ttx h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.vv-ttx button {
+    padding: 15px 15px;
+    color: white;
+    position: absolute;
+    top: 100px;
+    right: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgba(35, 35, 216, 0.867);
+    border: none;
+    border-radius: 14px;
+}
+.vv-ttx button:hover {
+    background: rgba(128, 128, 128, 0.642);
+}
+.card-end h1 {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.last-icon {
+    padding: 15px 15px;
+    border-radius: 50%;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    background-color: rgba(20, 20, 252, 0.82);
+}
+
+.last-ttx h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.last-ttx p {
+    font-size: 20px;
+}
+
+.last-ttx input {
+    width: 175px;
+    height: 50px;
+    border-radius: 14px;
+    border: none;
+}
+
+.end-one {
+    height: 200px;
+    flex-wrap: wrap;
+}
+
+.end-two {
+    height: 200px;
+    flex-wrap: wrap;
+
+}
+
+.last-ttx {
+    width: 300px;
+    height: 300px;
+}
+
+.last-ttx span {
+    font-size: 30px;
+    gap: 50px;
+}
+
+.last-ttx {
+    position: relative;
+}
+
+.last-ttx button {
+    padding: 15px 20px;
+    color: white;
+    position: absolute;
+    bottom: 60px;
+    right: 52px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgba(35, 35, 216, 0.867);
+    border: none;
+    border-radius: 14px;
+}
+.last-ttx button:hover {
+    background: rgba(128, 128, 128, 0.737);
+}
+
+.main-gj:hover .new-in {
+    animation: ani;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: .4s;
+}
+
+
+@keyframes ani {
+    0% {
+        transform: translateY(0px);
+        transition: .5s ease-in-out;
+        opacity: 0;
+    }
+
+    80% {}
+
+    .100% {
+        transform: translateY(200px);
+        transition: .5s ease-in-out;
+        opacity: 0;
+    }
+}
+
+
+.baa {
+    /* border: 4px solid red; */
+}
+
+.bgg {
+    /* border: 4px solid rgb(47, 255, 0); */
+}
+
+.bnn {
+    /* border: 4px solid rgb(8, 0, 255); */
+}
+
+.bkk {
+    /* border: 4px solid rgb(255, 0, 234); */
+}
+
+.bdd {
+    /* border: 4px solid rgb(25, 4, 4); */
+}
+
+.f-i i:hover {
+    scale: 1.08;
+    transition: .2s all ease-in-out;
+    cursor: pointer;
+}
+
+.towbtx {
+    background-color: rgb(42, 111, 231);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.towbtx:hover {
+    background: rgba(128, 128, 128, 0.72);
+}
